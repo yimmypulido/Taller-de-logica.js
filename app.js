@@ -56,5 +56,17 @@ let list = [2, 5, 1, 8, 3, 7, 12, 44, 67, 5, 9, 15, 60];
 
 // console.log(suma(10, 10, 50))
 
+// Ejercicio 4
 
+
+// let frutas = ['pera', 'kiwi', 'mango', 'fresa'];
+
+// let tasfru = []
+
+// for (let i = frutas.length -1 ; i >= 0 ; i--) {
+
+//     tasfru.push(frutas[i])
+    
+// }
+// console.log(tasfru)
 
