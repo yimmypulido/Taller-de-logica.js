@@ -38,6 +38,23 @@ let list = [2, 5, 1, 8, 3, 7, 12, 44, 67, 5, 9, 15, 60];
 
 // }
 
+// Ejercicio 3
+
+// function suma(...num){
+// let total = 0;
+
+// for (const number of num) {
+    
+//    total = total + number;
+
+// }
+
+//     return total;
+
+// }
+
+
+// console.log(suma(10, 10, 50))
 
 
 
