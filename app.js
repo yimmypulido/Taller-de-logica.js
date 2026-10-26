@@ -70,3 +70,17 @@ let list = [2, 5, 1, 8, 3, 7, 12, 44, 67, 5, 9, 15, 60];
 // }
 // console.log(tasfru)
 
+// Ejercicio 5
+
+let horasRedesMundo = 2.7;
+let horasRedesColombia = 3.6;
+
+let yearSum = horasRedesColombia * 365
+let daySum = yearSum / 24
+let semanaSum = daySum / 7
+let meSum = daySum/30
+
+console.log(`las personas al año usan las redes sociales unas ${yearSum} h`)
+console.log (`estos serian los dias que usan las redes sociales en colombia ${daySum} Dias`)
+console.log ( `estas serian las semanas que usan las redes sociales en colombia ${semanaSum} semanas`)
+console.log ( ` estos serian los meses que se usan las redes sociales en colombia ${meSum} meses`)
